@@ -3,7 +3,8 @@
 #include "lists.h"
 
 /**
- * delete_nodeint_at_index - function that  deletes the  node at index of a linked list
+ * delete_nodeint_at_index - function that
+ * deletes the  node at index of a linked list
  * @head: input of the first element of the list
  * @index: input of the index of the node to delete
  * Return: the value of a n node.
